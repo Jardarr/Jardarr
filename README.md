@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardarr&label=Profile%20views&color=0e75b6&style=flat" alt="jardarr" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jardarr-portfolio.vercel.app/](jardarr-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jardarr-portfolio.vercel.app/](https://jardarr-portfolio.vercel.app/)
 
 - 📫 How to reach me **dmitrynordmann@gmail.com**
 
