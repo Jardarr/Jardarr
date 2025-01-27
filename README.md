@@ -6,7 +6,7 @@
 {
   "name": "Dmitry",
   "introduction": {
-    "description": "I do front-end development at an amateur level"
+    "description": "I am a front-end developer at an amateur level."
   },
   "projects": {
     "portfolio": "All of my projects are available at https://jardarr-portfolio.vercel.app/"
