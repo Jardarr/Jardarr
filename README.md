@@ -1,6 +1,6 @@
 # 🗂️ README.md
 
-![Jardarr Logo](jardarrbanner.png)
+![Jardarr Logo](jrdrr_neon.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardarr&label=Profile%20views&color=0e75b6&style=flat" alt="jardarr" /> </p>
 
@@ -11,7 +11,7 @@
     "description": "I am a front-end developer at an amateur level",
   },
   "projects": {
-    "portfolio": "All of my projects are available at https://jardarr-portfolio.vercel.app/"
+    "portfolio": "All of my projects are available at https://jrdrr.vercel.app/"
   },
   "contact": {
     "email": "How to reach me: dmitrynordmann@gmail.com",
