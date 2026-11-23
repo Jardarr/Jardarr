@@ -1,6 +1,6 @@
 # 🗂️ README.md
 
-![Jardarr Logo](jrdrr_neon.jpg)
+![Jardarr Logo](jrdrr_vice_city.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardarr&label=Profile%20views&color=0e75b6&style=flat" alt="jardarr" /> </p>
 
